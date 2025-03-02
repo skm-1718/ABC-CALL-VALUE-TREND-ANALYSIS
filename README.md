@@ -1,2 +1,7 @@
 # ABC-CALL-VALUE-TREND-ANALYSIS
-In this project, we will move into the world of Customer Experience (CX) analytics, specifically focusing on the inbound calling team of a company. The goal is to attract, engage, and delight customers, turning them into loyal advocates for the business.
+In this project, we will move into the world of Customer Experience (CX) analytics, specifically focusing on the inbound calling team of a company. 
+A dataset that spans 23 days and includes various details such as the agent's name and ID, the queue time (how long a customer had to wait before connecting with an agent), the time of the call, the duration of the call, and the call status (whether it was abandoned, answered, or transferred) is provided to us.
+The goal is to attract, engage, and delight customers, turning them into loyal advocates for the business.
+•	To perform the project a systematic approach was followed. A dataset having relevant information on agent's name and ID, the queue time, the time of the call, the duration of the call, and the call status was downloaded. Microsoft Excel 2021 was selected as the primary tool for data analysis due to its versatility and robust capabilities in handling tabular data. There are N/A in the dataset but as per the tasks those data columns are not required so they remain there in the dataset which will not affect our analysis.
+Excel was chosen for its extensive data analysis functions, including pivot tables, charts, and statistical functions and visualization of the call data
+These are the tasks which are given by clients and we solved them with fruitful insights with the help of charts ,graphs and tables
